@@ -4,6 +4,10 @@ Fun diversion compute the product of rows by group using sql
 
     Fun diversion compute the product of rows by group using sql
 
+    github                                                                                                     
+    http://tinyurl.com/cw2tfsd9                                                                                
+    https://github.com/rogerjdeangelis/utl-fun-diversion-compute-the-product-of-row-by-group-using-r-python-sql
+
     Compute the product of ages and weights by sex
 
        sOLUTIONS
